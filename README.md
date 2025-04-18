@@ -15,6 +15,3 @@ Make sure file uploads are enabled in your `php.ini`
 ```ini
 file_uploads = On
 ```
-
-## ⚠️ Warning
-This tool gives full file system access within the script's directory. Use with caution on public facing servers.
